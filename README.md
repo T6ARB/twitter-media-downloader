@@ -18,9 +18,9 @@ A Python CLI tool to download **all images and videos** from a Twitter user’s 
 ## Installation
 
 **Clone the Repository:**
-    ```bash
+```bash
     git clone https://github.com/T6ARB/twitter-media-downloader.git
-    
+```   
 ```bash
 pip install -r requirements.txt
 ```
