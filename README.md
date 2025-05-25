@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python twitter_media_downloader.py <username> [--limit N] [--output /path/to/folder]
+python twtdow.py <username> [--limit N] [--output /path/to/folder]
 ```
 
 - `<username>`: Twitter handle without `@`  
@@ -40,5 +40,5 @@ python twitter_media_downloader.py <username> [--limit N] [--output /path/to/fol
 Example:
 
 ```bash
-python twitter_media_downloader.py nasa --limit 100 --output ./nasa_media
+python twtdow.py nasa --limit 100 --output ./nasa_media
 ```
