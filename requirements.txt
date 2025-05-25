@@ -1,0 +1,3 @@
+snscrape
+requests
+tqdm
