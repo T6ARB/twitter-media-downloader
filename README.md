@@ -1,4 +1,4 @@
-# Twitter Media Downloader (Enhanced)
+# Twitter Media Downloader
 
 A Python CLI tool to download **all images and videos** from a Twitter user’s tweets, with the tweet text saved alongside.
 
@@ -17,8 +17,6 @@ A Python CLI tool to download **all images and videos** from a Twitter user’s 
 
 ## Installation
 
-1. Clone the repository or copy files.  
-2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -41,17 +39,3 @@ Example:
 ```bash
 python twitter_media_downloader.py nasa --limit 100 --output ./nasa_media
 ```
-
----
-
-## Requirements
-
-- Python 3.7+  
-- Internet connection  
-- `snscrape`, `requests`, and `tqdm` Python packages  
-
----
-
-## License
-
-MIT License © 2025 Your Name
